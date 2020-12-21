@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T10:44:09.797Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400 (Edition Yx)" version="14.0.4" etag="pcuwPQ_FOdanA9etLj6R" type="github"><diagram id="15I8bF1Pc-WEXfC7bZOq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T11:40:13.182Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 OPR/72.0.3815.400 (Edition Yx)" etag="RD_aqjmD1gEeDgfTE50T" version="14.0.4" type="github">
+  <diagram id="15I8bF1Pc-WEXfC7bZOq" name="Page-1">
+    <mxGraphModel dx="953" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-1" target="vQZUxDjoQUI8urBoH0s_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-2" target="vQZUxDjoQUI8urBoH0s_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-2" value="Создание и Оформление СЗ Инициатором" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="50" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-3" target="vQZUxDjoQUI8urBoH0s_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-3" value="Инициатор подтверждает уведомление &quot;Документ согласован и готов к работе&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="280" width="170" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-4" target="vQZUxDjoQUI8urBoH0s_-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-4" target="vQZUxDjoQUI8urBoH0s_-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-4" value="Согласующее лицо&lt;br&gt;&amp;nbsp;согласовало &lt;u&gt;приказ&lt;/u&gt;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="120" width="196" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-5" value="Инициатор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-6" value="Согласующее лицо" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-7" value="Ответственный &lt;br&gt;за регистрацию" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-9" target="vQZUxDjoQUI8urBoH0s_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-9" value="Инициатор уточняет список рассылок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="345" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-10" target="vQZUxDjoQUI8urBoH0s_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-10" value="Инициатор утверждает уведомление об окончании процесса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="470" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-18" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-20" target="vQZUxDjoQUI8urBoH0s_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-20" value="&lt;span&gt;Ответственный за регистрацию регистрирует приказ&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-23" target="vQZUxDjoQUI8urBoH0s_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-23" value="Доработка замечаний инициатором" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-27" target="vQZUxDjoQUI8urBoH0s_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-27" target="vQZUxDjoQUI8urBoH0s_-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="255" />
+              <mxPoint x="740" y="450" />
+              <mxPoint x="415" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-27" value="инициатор отправляет доработанное СЗ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQZUxDjoQUI8urBoH0s_-29" target="vQZUxDjoQUI8urBoH0s_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="340" />
+              <mxPoint x="760" y="100" />
+              <mxPoint x="414" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vQZUxDjoQUI8urBoH0s_-29" value="инициатор &lt;br&gt;отправляет доработанное СЗ &lt;br&gt;Без согласования?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
